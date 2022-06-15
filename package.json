@@ -1,6 +1,6 @@
 {
-  "name": "@bortolilucas/react-native-jitsimeet",
-  "version": "2.3.1",
+  "name": "@philippeweidmann/react-native-jitsimeet",
+  "version": "2.3.2",
   "description": "React native Wrapper for Jitsi Meet SDK",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -39,13 +39,13 @@
     "meet",
     "sdk"
   ],
-  "repository": "https://github.com/bortolilucas/react-native-jitsimeet",
-  "author": "Lucas Bortoli <lucasbortolidev@gmail.com> (https://github.com/bortolilucas)",
+  "repository": "https://github.com/philippeweidmann/react-native-jitsimeet",
+  "author": "Philippe Weidmann <philippe.weidmann@ik.me> (https://github.com/philippeweidmann)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bortolilucas/react-native-jitsimeet/issues"
+    "url": "https://github.com/philippeweidmann/react-native-jitsimeet/issues"
   },
-  "homepage": "https://github.com/bortolilucas/react-native-jitsimeet#readme",
+  "homepage": "https://github.com/philippeweidmann/react-native-jitsimeet#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
